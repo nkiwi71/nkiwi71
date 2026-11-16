@@ -1,12 +1,12 @@
 <div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1e1b4b,100:2e1065&height=210&section=header&text=Nathan&fontSize=72&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20Coda%20Dijon&descSize=18&descColor=a78bfa&descAlign=50&descAlignY=64&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1e1b4b,100:2e1065&height=210&section=header&text=Nathan&fontSize=72&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=%C3%89tudiant%20en%20Informatique%20%E2%80%A2%20Coda%20Dijon&descSize=18&descColor=a78bfa&descAlign=50&descAlignY=64&animation=fadeIn" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=23&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey+there+%F0%9F%91%8B+I'm+Nathan+(%40nkiwi71);Computer+Science+Student+%40+Coda+Dijon;Always+learning%2C+always+coding+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=23&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Salut+%F0%9F%91%8B+Moi+c'est+Nathan+(%40nkiwi71);%C3%89tudiant+en+Informatique+%40+Coda+Dijon;Toujours+en+train+d'apprendre+et+de+coder+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,21 +31,21 @@
 ###
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=24&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&width=450&height=38&lines=%2F%2F+ABOUT+ME" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=24&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&width=450&height=38&lines=%2F%2F+%C3%80+PROPOS+DE+MOI" alt="À propos de moi" />
 </div>
 
 <p data-importer="text" align="left">
-  Hi! I'm <b>Nathan</b>, a Computer Science student at <b>Coda Dijon</b> passionate about software development, low-level programming, and modern web technologies. I enjoy understanding how systems work under the hood and turning ideas into clean, functional projects.
+  Salut ! Moi c'est <b>Nathan</b>, étudiant en informatique à <b>Coda Dijon</b>, passionné par le développement logiciel, la programmation bas niveau et les technologies web modernes. J'aime comprendre comment les systèmes fonctionnent sous le capot et transformer des idées en projets propres et fonctionnels.
 </p>
 
-- ▸ **Education:** Software engineering & computer science at **Coda Dijon**
-- ▸ **Mindset:** Continuously sharpening my problem-solving skills through real projects
-- ▸ **Contact:** [nathan.lion@coda-student.school](mailto:nathan.lion@coda-student.school)
+- ▸ **Formation :** Génie logiciel et informatique à **Coda Dijon**
+- ▸ **État d'esprit :** Amélioration continue de mes compétences en résolution de problèmes à travers des projets concrets
+- ▸ **Contact :** [nathan.lion@coda-student.school](mailto:nathan.lion@coda-student.school)
 
 ###
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=24&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&width=450&height=38&lines=%2F%2F+TECH+STACK+%26+TOOLS" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=24&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&width=450&height=38&lines=%2F%2F+STACK+TECHNIQUE+%26+OUTILS" alt="Stack technique et outils" />
 </div>
 
 <div data-importer="techs" align="center">
@@ -55,7 +55,7 @@
 ###
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=24&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&width=450&height=38&lines=%2F%2F+GITHUB+ANALYTICS" alt="GitHub Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=24&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&width=450&height=38&lines=%2F%2F+STATISTIQUES+GITHUB" alt="Statistiques GitHub" />
 </div>
 
 <div data-importer="stats" align="center">
